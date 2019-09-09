@@ -2,10 +2,12 @@ label {
     display: block;
     Width: 300px;
     border-radius: 5px;
+    margin: 15px;
 }
 
 input {
     display: block;
     Width: 300px;
     border-radius: 5px;
+    margin: 15px;
 }
